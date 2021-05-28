@@ -1,0 +1,4 @@
+.autogit
+ **/node_modules
+/tour/node_modules
+/TourProject/node_modules

@@ -1,0 +1,6 @@
+export const    LOGIN='LOGIN'
+export const LOGOUT='LOGOUT'
+export const COUNT='COUNT'
+export const SHOW='SHOW'
+export const ADMIN='ADMIN'
+export const PACKAGESHOW='PACKAGESHOW'
